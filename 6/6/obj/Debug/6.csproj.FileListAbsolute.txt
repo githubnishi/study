@@ -1,0 +1,6 @@
+D:\Projects\Cs\6\6\bin\Debug\6.exe.config
+D:\Projects\Cs\6\6\bin\Debug\6.exe
+D:\Projects\Cs\6\6\bin\Debug\6.pdb
+D:\Projects\Cs\6\6\obj\Debug\6.csprojResolveAssemblyReference.cache
+D:\Projects\Cs\6\6\obj\Debug\6.exe
+D:\Projects\Cs\6\6\obj\Debug\6.pdb
